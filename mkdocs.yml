@@ -1,0 +1,10 @@
+site_name: "something-new"
+site_description: "this is something new"
+site_addon: "why do we have so many new things????"
+
+nav:
+  - Introduction: index.md
+  - Other: other.md
+
+plugins:
+  - techdocs-core
